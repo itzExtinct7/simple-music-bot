@@ -1,6 +1,6 @@
 module.exports = {
-  token: "MTI5OTYyNDY0Mjk2NDc1NDQ2NA.GquHSG.uSGqtNe6GgeqQKGMjyvPK-QHETBy3TVP8BwsHY",
-  clientId: "1299624642964754464",
+  token: "",
+  clientId: "",
   nodes: [
     {
       name: "MainNode",
