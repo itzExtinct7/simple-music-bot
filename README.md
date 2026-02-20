@@ -28,8 +28,9 @@ No coding required (basic config only)
 
 # 🚀 Quick Setup
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/itzExtinct7/simple-music-bot
+
+cd YOUR_REPO NAME
 
 # 2. Install dependencies
 npm install
